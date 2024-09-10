@@ -1,0 +1,22 @@
+.odd-number{
+    background-color: lightpink;
+    font-family: Verdana, 'DejaVu Sans', 'sans-serif';
+
+}
+.two-four-px-font{
+font-size: 24px;
+}
+
+
+#only-number-2{
+    color: blue;
+font-size: 36px;
+
+
+}
+
+#only-number-4{
+    background-color:lightgreen;
+    font-weight: bold;
+}
+
